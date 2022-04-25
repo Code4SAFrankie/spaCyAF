@@ -1,8 +1,10 @@
-# Source: https://github.com/stopwords-iso/stopwords-af
+# Original Source: https://github.com/stopwords-iso/stopwords-af
+# Translations of English and Dutch stop words added by Francois Loubser.
 
 STOP_WORDS = set(
     """
 'n
+’n
 aan
 af
 al
